@@ -4,11 +4,11 @@ A fast, concurrent word counter written in Go that processes multiple text files
 
 ## Features
 
-- 🚀 **Concurrent Processing**: Uses goroutines to process multiple files in parallel
-- 📊 **Top Words Ranking**: Displays the N most frequent words across all files
-- 🔤 **Case Insensitive**: Treats "Go", "GO", and "go" as the same word
-- 📈 **Statistics**: Shows total files processed, total words, and unique words
-- ⚡ **Fast and Efficient**: Built with Go's powerful concurrency primitives
+- **Concurrent Processing**: Uses goroutines to process multiple files in parallel
+- **Top Words Ranking**: Displays the N most frequent words across all files
+- **Case Insensitive**: Treats "Go", "GO", and "go" as the same word
+- **Statistics**: Shows total files processed, total words, and unique words
+- **Fast and Efficient**: Built with Go's powerful concurrency primitives
 
 ## Installation
 
